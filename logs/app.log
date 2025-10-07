@@ -1,0 +1,12 @@
+[2025-10-07 16:35:10] [INFO] com.happyfeet.repository.FacturaDAO - Factura agregada exitosamente con ID: 25
+[2025-10-07 16:35:10] [WARN] com.happyfeet.repository.FacturaDAO - Factura creada sin items, PDF no generado automáticamente
+[2025-10-07 16:35:10] [INFO] com.happyfeet.repository.ItemsFacturaDAO - Item factura agregado exitosamente
+[2025-10-07 16:35:10] [INFO] com.happyfeet.repository.InventarioDAO - Stock actualizado para Vacuna Múltiple Canina: 50 -> 48 (-2)
+[2025-10-07 16:35:10] [INFO] com.happyfeet.controller.FacturaController - Factura completa creada exitosamente con ID: 25
+[2025-10-07 16:35:43] [INFO] com.happyfeet.repository.FacturaDAO - Factura agregada exitosamente con ID: 26
+[2025-10-07 16:35:43] [WARN] com.happyfeet.repository.FacturaDAO - Factura creada sin items, PDF no generado automáticamente
+[2025-10-07 16:35:43] [INFO] com.happyfeet.repository.ItemsFacturaDAO - Item factura agregado exitosamente
+[2025-10-07 16:35:43] [INFO] com.happyfeet.repository.InventarioDAO - Stock actualizado para Vacuna Antirrábica: 45 -> 43 (-2)
+[2025-10-07 16:35:43] [INFO] com.happyfeet.controller.FacturaController - Factura completa creada exitosamente con ID: 26
+[2025-10-07 16:47:08] [ERROR] com.happyfeet.view.FacturaView - Error. Opcion invalida
+[2025-10-07 16:47:26] [ERROR] com.happyfeet.view.FacturaView - Error. Opcion invalida
